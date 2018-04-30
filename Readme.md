@@ -15,7 +15,8 @@
 * print_table prints each element in the table to standard out
 
 ## Examples
-<pre>
+
+```
 #include "hashtable.h"
 #include <string.h>
 
@@ -42,7 +43,7 @@ int main() {
 
 	return 0;
 }
-</pre>
+```
 
 ## Algorithm
 * The hashtable is actually an array of pointers to linked lists
