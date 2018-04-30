@@ -16,7 +16,7 @@
 
 ## Examples
 
-```
+```c
 #include "hashtable.h"
 #include <string.h>
 
